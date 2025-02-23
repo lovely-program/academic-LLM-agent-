@@ -1,2 +1,7 @@
-# academic-LLM-agent-
-我想制作一个可以自动爬取更新文献，同时总结文献核心内容，制作为卡片的一个小程序
+# 爬虫学习
+我使用简单的re、request实现了arvix中materials science栏的爬虫
+对180篇文献进行了title、author、html path的提取
+我首先学习了半自动的爬虫
+然后学会了用requests调取源代码进行爬虫
+最终结果输出为了csv文件
+这花费了我一天时间
